@@ -56,4 +56,3 @@ print(l)
 lm = {1:1,2:2,3:5}
 print(lm.values())
 
-1231234124
